@@ -9,18 +9,28 @@ El mundo del deporte abarca una amplia gama de actividades físicas que van desd
 
 <center>
 
-|Que es...|Deportes mas Conocidos|
+|Que son los Deportes...|Articulos de Deportes mas Conocidos|
 |-|-|
-|[Introducción](#deportes). |[Futbol](futbol.md).|
-|[Importancia del Deporte](#importancia-del-deporte). |[Futbol Americano](futbol.md).|
-|[Definición](#definición). |[Futbol](futbol.md).|
-|[Etimología de Deporte](#etimología-de-deporte).|dos|
-|[Historia del Deporte](#historia-del-deporte).|dos|
-|[Tipos de Deporte](#tipos-de-deporte).|dos|
-|[Valores y Ética en el Deporte](#valores-y-ética-en-el-deporte).|dos|
-|[Impacto Cultural y Social del Deporte](#impacto-cultural-y-social-del-deporte).|dos|
-|[El Deporte en la Actualidad](#el-deporte-en-la-actualidad).|dos|
-|[El Futuro del Deporte](#el-futuro-del-deporte).|dos|
+|[Introducción](#deportes). |[1.- Futbol](articulos-md/futbol.md).|
+|[Importancia del Deporte](#importancia-del-deporte). |[2.- Futbol Americano](articulos-md/futbol-americano.md).|
+|[Definición](#definición). |[3.- Baloncesto](articulos-md/baloncesto.md).|
+|[Etimología de Deporte](#etimología-de-deporte).|[4.- Béisbol](articulos-md/beisbol.md).|
+|[Historia del Deporte](#historia-del-deporte).|[5.- Tenis](articulos-md/tenis.md)|
+|[Tipos de Deporte](#tipos-de-deporte).|[6.- Atletismo](articulos-md/atletismo.md)|
+|[Valores y Ética en el Deporte](#valores-y-ética-en-el-deporte).|[7.- Natacion](articulos-md/natacion.md)|
+|[Impacto Cultural y Social del Deporte](#impacto-cultural-y-social-del-deporte).|[8.- Gimnasia](articulos-md/gimnasia.md)|
+|[El Deporte en la Actualidad](#el-deporte-en-la-actualidad).|[9.- Ciclismo](articulos-md/ciclismo.md)|
+|[El Futuro del Deporte](#el-futuro-del-deporte).|[10.- Deportes de Combate](articulos-md/deportes-de-combate.md)|
+||[11.- Deportes de Invierno](articulos-md/deportes-de-invierno.md)|
+||[12.-  Deportes Extremos](articulos-md/deportes-extremos.md)|
+||[13.- Deportes Acuáticos](articulos-md/deportes-acuaticos.md)|
+||[14.- Deportes de Motor](articulos-md/deportes-de-motor.md)|
+||[15.- Deportes de Raqueta](articulos-md/deportes-de-raqueta.md)|
+||[16.- Deportes Adaptados](articulos-md/deportes-adaptados.md)|
+||[17.- Deportes Tradicionales](articulos-md/deportes-tradicionales.md)|
+||[18.- Esports](articulos-md/esports.md)|
+||[19.- Deportes de Ocio y Recreación](articulos-md/deportes-de-ocio-y-recreación.md)|
+||[20.- Deportes de Aventura](articulos-md/deportes-de-aventura.md)|
 
 </center>
 
