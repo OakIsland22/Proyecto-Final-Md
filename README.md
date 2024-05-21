@@ -8,4 +8,3 @@ Este es un repositorio donde se tienen los 20 articulos para la **Wiki**
 ---
 
 [Ir a el avance](articulos.md)
- desde mac
